@@ -6,7 +6,7 @@
 
 Building open-source computational biology tools at the intersection of **translation kinetics**, **structural biology**, **genomics**, and **microscopy computer vision**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Emir_Esti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emir-esti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Emir_Esti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-emir-esti-06371a300)
 [![GitHub](https://img.shields.io/badge/GitHub-emiresti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emiresti)
 
 </div>
