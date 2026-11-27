@@ -23,10 +23,11 @@ Building original, open-source computational biology laboratories at the interse
 
 ## 🚀 Flagship Open-Source Bioinformatics Suite
 
-### Interactive Browser Labs & Molecular Simulators (All 9 Live — No Install Required!)
+### Interactive Browser Labs & Molecular Simulators (All 10 Live — No Install Required!)
 
 | Project | Live Web Lab | Domain | Scientific & Engineering Highlights | CI |
 |---|---|---|---|---|
+| **[AlloPulse](https://github.com/emiresti/allopulse)** | [▶ Live Demo](https://emiresti.github.io/allopulse/) | Protein Allostery & Biophysics | **Exact Cholesky GNM ($\Gamma^+$)** + experimental **X-ray B-factor validation**, **Atilgan-Bahar Perturbation Response Scanning (PRS)**, **Sethi-Luthey-Schulten 3D allosteric pathways** (`3Dmol.js` glowing signal tubes), **DCCM heatmaps**, cryptic control-site discovery & **resistance mutation rewiring** (*KRAS*, *EGFR*, *Mpro*, live RCSB/AlphaFold). | [![CI](https://github.com/emiresti/allopulse/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/allopulse/actions/workflows/ci.yml) |
 | **[PocketCraft](https://github.com/emiresti/pocketcraft)** | [▶ Live Demo](https://emiresti.github.io/pocketcraft/) | Structural Drug Discovery & ADMET | **14-ray 3D protein binding-pocket finder** (live **RCSB PDB** & **AlphaFold DB** + `3Dmol.js` WebGL alpha-spheres), **virtual FDA & live PubChem drug-repurposing screener** ($\Delta G_{\text{bind}}, K_i$), pure-Python **SMILES ADMET / QED / PAINS / BOILED-Egg** engine & **bioisostere lead optimizer**. | [![CI](https://github.com/emiresti/pocketcraft/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/pocketcraft/actions/workflows/ci.yml) |
 | **[RiboFlow v2.0](https://github.com/emiresti/riboflow)** | [▶ Live Demo](https://emiresti.github.io/riboflow/) | Translation Biophysics & mRNA SynBio | **Turner 5' mRNA hairpin ($\Delta G$) folder & melter** coupled to exact **$\ell$-TASEP ribosome traffic**, **exit-tunnel (+K/R) electrostatic drag**, **mRNA vaccine Uridine-depletion ($m^1\Psi$)**, cloning-site scrubbing, **TASEP phase diagram ($\alpha$ sweep)** & live NCBI RefSeq import. | [![CI](https://github.com/emiresti/riboflow/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/riboflow/actions/workflows/ci.yml) |
 | **[GeneIDE](https://github.com/emiresti/geneide)** | [▶ Live Demo](https://emiresti.github.io/geneide/) | Pre-mRNA Splicing & Clinical Genetics | Treats eukaryotic splicing like a **software compiler & debugger**: PWM 5'/3' splice-site & branch-point scorer, cryptic splice / exon-skipping predictor (*HBB*, *DMD*, *BRCA1*), **50–55 nt EJC NMD rule** & proteome Git-Diff. | [![CI](https://github.com/emiresti/geneide/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/geneide/actions/workflows/ci.yml) |
@@ -51,7 +52,7 @@ Building original, open-source computational biology laboratories at the interse
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Computational Biology & Algorithms:**
-`3D Binding-Pocket Geometry` · `Virtual Drug Screening & ADMET (BOILED-Egg/QED)` · `ℓ-TASEP Kinetics` · `Splice-Site PWMs & NMD` · `CRISPR CFD & MMEJ` · `NSGA-II Evolutionary Optimization` · `DNA Coding Theory (GF(2) / MSA)` · `OpenCV Microscopy` · `Biopython` · `3Dmol.js` · `NCBI Entrez` · `RCSB PDB` · `AlphaFold DB` · `PubChem` · `UniProt`
+`Protein Allostery (GNM / PRS / DCCM)` · `3D Binding-Pocket Geometry` · `Virtual Drug Screening & ADMET (BOILED-Egg/QED)` · `ℓ-TASEP Kinetics` · `Splice-Site PWMs & NMD` · `CRISPR CFD & MMEJ` · `NSGA-II Evolutionary Optimization` · `DNA Coding Theory (GF(2) / MSA)` · `OpenCV Microscopy` · `Biopython` · `3Dmol.js` · `NCBI Entrez` · `RCSB PDB` · `AlphaFold DB` · `PubChem` · `UniProt`
 
 ---
 
