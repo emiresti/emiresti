@@ -23,7 +23,7 @@ Building original, open-source computational biology laboratories at the interse
 
 ## 🚀 Flagship Open-Source Bioinformatics Suite
 
-### Interactive Browser Labs & Molecular Simulators (Try Live — No Install Required!)
+### Interactive Browser Labs & Molecular Simulators (All 9 Live — No Install Required!)
 
 | Project | Live Web Lab | Domain | Scientific & Engineering Highlights | CI |
 |---|---|---|---|---|
@@ -33,14 +33,9 @@ Building original, open-source computational biology laboratories at the interse
 | **[CrisprGuard](https://github.com/emiresti/crisprguard)** | [▶ Live Demo](https://emiresti.github.io/crisprguard/) | Genome Editing (CRISPR) | **SpCas9 (`NGG`) & LbCas12a (`TTTV`)** guide RNA designer with PAM-proximal seed-weighted **CFD off-target kinetics** (`rG:dT` wobble-aware) and **Bae MMEJ microhomology** out-of-frame knockout prediction. | [![CI](https://github.com/emiresti/crisprguard/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/crisprguard/actions/workflows/ci.yml) |
 | **[PeptiForge](https://github.com/emiresti/peptiforge)** | [▶ Live Demo](https://emiresti.github.io/peptiforge/) | Computational Drug Design | **NSGA-II multi-objective evolutionary arena** for de-novo antimicrobial peptides maximizing potency, low hemolysis & protease stability with live **Schiffer-Edmundson $\alpha$-helical wheel** and Eisenberg $\mu_H$ vectors. | [![CI](https://github.com/emiresti/peptiforge/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/peptiforge/actions/workflows/ci.yml) |
 | **[HelixFS](https://github.com/emiresti/helixfs)** | [▶ Live Demo](https://emiresti.github.io/helixfs/) | DNA Data Storage & SynBio | **Goldman rotating base-3** homopolymer-free DNA codec + **GF(2) XOR fountain erasure coding** + wet-lab QC (GC/hairpin/enzyme filter) + **Arrhenius aging** & Illumina/Nanopore MSA error recovery simulator. | [![CI](https://github.com/emiresti/helixfs/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/helixfs/actions/workflows/ci.yml) |
+| **[Cell-Morphology-Analyzer](https://github.com/emiresti/Cell-Morphology-Analyzer)** | [▶ Live Demo](https://emiresti.github.io/Cell-Morphology-Analyzer/) | Bioimage Computer Vision | Multi-channel **GFP / DAPI / RFP fluorescence** & brightfield segmentation with **distance-transform watershed**, live heatmap & split slider, click-to-inspect cell morphometrics, **batch multi-image CSV/PDF**, plus OpenCV/Streamlit/CLI pipeline. | [![CI](https://github.com/emiresti/Cell-Morphology-Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/Cell-Morphology-Analyzer/actions/workflows/ci.yml) |
+| **[GenomLab (`genom-analiz-araci`)](https://github.com/emiresti/genom-analiz-araci)** | [▶ Live Demo](https://emiresti.github.io/genom-analiz-araci/) | Cloning & Sequence Genomics | Live **NCBI Entrez** sequence fetcher, sliding **GC / GC-Skew & CpG islands**, **6-frame ORF map**, **14-enzyme circular plasmid map & UV virtual agarose gel**, and **PCR cloning primer designer** (Pyodide WASM + CLI/Streamlit). | [![CI](https://github.com/emiresti/genom-analiz-araci/actions/workflows/ci.yml/badge.svg)](https://github.com/emiresti/genom-analiz-araci/actions/workflows/ci.yml) |
 | **[ProteinScope](https://github.com/emiresti/proteinscope)** | [▶ Live Demo](https://emiresti.github.io/proteinscope/) | Structural Bioinformatics | Browser-based **3D protein structure viewer** (`3Dmol.js` + RCSB PDB + UniProt) with from-scratch MW, isoelectric point ($pI$), net charge, and GRAVY hydropathy calculators. | WebGL / Static |
-
-### Microscopy Computer Vision & Sequence Tooling
-
-| Project | Domain | Highlights | Stack |
-|---|---|---|---|
-| **[Cell-Morphology-Analyzer](https://github.com/emiresti/Cell-Morphology-Analyzer)** | Bioimage Computer Vision | Multi-channel **fluorescence (GFP, DAPI, RFP)** & brightfield cell segmentation with **batch folder processing**, circularity/solidity morphometrics, SQLite history, and CSV/PDF/ZIP reports. | `Python` `OpenCV` `Streamlit` `SQLite` |
-| **[genom-analiz-araci](https://github.com/emiresti/genom-analiz-araci)** | Cloning & Sequence Genomics | **NCBI Entrez** sequence fetcher, sliding-window GC/$T_m$ profiler, **6-frame ORF finder**, and **14-enzyme restriction digest** simulator (linear DNA & circular plasmids) with CLI & Streamlit UI. | `Python` `Biopython` `Streamlit` |
 
 ---
 
